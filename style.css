@@ -1,0 +1,15 @@
+.main{
+    font-size: 15px;
+}
+*{
+ width: auto;
+ 
+}
+.pic img{
+    width: 40%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    mix-blend-mode: color-burn;
+  position: relative;
+  
+}
